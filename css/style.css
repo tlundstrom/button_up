@@ -1,0 +1,53 @@
+
+
+.container
+{
+    margin: 50px;
+}
+
+button
+{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.search
+{
+
+    width: 100px;
+    height: 25px;
+    color: mediumaquamarine;;
+    border-color: mediumaquamarine;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    border-style: solid;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.add
+{
+    display: inline-flex;
+    align-items: center;
+    background-color: mediumaquamarine;
+    border-radius: 50%;
+    border-style: none;
+    color: white;
+    width: 25px;
+    height: 25px;
+    line-height: normal;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+.create
+{
+    width: 150px;
+    border-color: black;
+    font-size: 1em;
+    background-color: cornflowerblue;
+    box-shadow: 2.5px 2.5px black;
+    color: white;
+
+}
